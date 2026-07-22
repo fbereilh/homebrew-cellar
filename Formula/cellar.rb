@@ -15,8 +15,8 @@
 class Cellar < Formula
   desc "Agent-first notebook: a live Jupyter workspace with an MCP agent interface"
   homepage "https://github.com/fbereilh/cellar"
-  url "https://github.com/fbereilh/cellar/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "52fcf00465c23f63645744cfe46b541a6161b683b50e24f607aee510beb95f57"
+  url "https://github.com/fbereilh/cellar/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "bf9cd6e03d852d6ad40eac1f57f9c844dfd226e43e27125d376b8a08e8c614a1"
   license "MIT"
   head "https://github.com/fbereilh/cellar.git", branch: "main"
 
